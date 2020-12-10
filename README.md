@@ -1,4 +1,6 @@
-# If you are unable to load the games in your browser, then try the following steps for yopur respective browser ti turn on WebGL support. 
+# Games in Unity/C#
+
+## If you are unable to load the games in your browser, then try the following steps for yopur respective browser ti turn on WebGL support. 
 
 ### Firefox (recommended browser for running WebGL)
 
